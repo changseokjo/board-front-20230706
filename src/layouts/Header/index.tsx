@@ -1,7 +1,7 @@
 import { ChangeEvent, KeyboardEvent, useState, useEffect } from 'react';
 import { useLocation, useNavigate, useParams } from 'react-router-dom';
 import { AUTH_PATH, MAIN_PATH, BOARD_WRITE_PATH, SEARCH_PATH, BOARD_DETAIL_PATH, USER_PATH, BOARD_UPDATE_PATH } from 'constant';
-import './style.css';
+import './index.css';
 import { useCookies } from 'react-cookie';
 import { useBoardStore, useUserStore } from 'stores';
 import { LoginUser } from 'types';

@@ -1,5 +1,5 @@
 import React from 'react';
-import './style.css';
+import './index.css';
 import { CommentListItem } from 'types';
 import DefaultProfileImage from 'assets/default-profile-image.png';
 import dayjs from 'dayjs';
