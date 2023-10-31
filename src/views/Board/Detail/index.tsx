@@ -1,5 +1,5 @@
 import React, { useState, useEffect, ChangeEvent, useRef } from 'react';
-import './index.css';
+import './style.css';
 import DefaultProfileImage from 'assets/default-profile-image.png';
 import { Board, CommentListItem, FavoriteListItem } from 'types';
 import { useNavigate, useParams } from 'react-router-dom';

@@ -1,5 +1,5 @@
 import React, { ChangeEvent, Dispatch, KeyboardEvent, MutableRefObject, SetStateAction, forwardRef, useRef } from 'react';
-import './index.css';
+import './style.css';
 
 //          interface: Input 상자 컴포넌트 Props          //
 interface Props {

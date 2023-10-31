@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import './index.css';
+import './style.css';
 import { usePagination } from 'hooks';
 import { useNavigate, useParams } from 'react-router-dom';
 import { relationWordListMock, searchListMock } from 'mocks';

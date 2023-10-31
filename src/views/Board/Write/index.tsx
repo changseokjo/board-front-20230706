@@ -1,5 +1,5 @@
 import React, { ChangeEvent, useRef, useState, useEffect } from 'react';
-import './index.css';
+import './style.css';
 import { useBoardStore } from 'stores';
 
 //          component: 게시물 작성 화면          //

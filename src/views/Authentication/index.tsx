@@ -1,5 +1,5 @@
 import { KeyboardEvent, useRef, useState } from 'react';
-import './index.css';
+import './style.css';
 import InputBox from 'components/InputBox';
 import { useCookies } from 'react-cookie';
 import { useUserStore } from 'stores';

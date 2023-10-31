@@ -1,5 +1,5 @@
 import React, { ChangeEvent, useEffect, useRef, useState } from 'react';
-import './index.css';
+import './style.css';
 import { useNavigate, useParams } from 'react-router-dom';
 import { userBoardListMock, userMock } from 'mocks';
 import { useUserStore } from 'stores';

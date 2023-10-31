@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import './index.css';
+import './style.css';
 import { BoardListItem } from 'types';
 import Top3ListItem from 'components/Top3ListItem';
 import { useNavigate } from 'react-router-dom';
